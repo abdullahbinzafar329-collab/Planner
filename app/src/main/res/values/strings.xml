@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biyas Planner</string>
+    <string name="set_reminder">Set reminder</string>
+    <string name="save_reminder">Save reminder</string>
+    <string name="delete_reminder">Delete this reminder</string>
+    <string name="cancel">Cancel</string>
+    <string name="label_field">What\'s planned</string>
+    <string name="label_hint">e.g. Renew passport, Call the dentist</string>
+    <string name="date_field">Date</string>
+    <string name="time_field">Time</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="empty_state">Nothing planned yet. Tap Set reminder to add one, any day in the next year.</string>
+    <string name="alarm_heading">Biyas Planner alarm</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
